@@ -1,0 +1,9 @@
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\bin\Debug\LogParser.exe.config
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\bin\Debug\LogParser.exe
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\bin\Debug\LogParser.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\obj\Debug\LogParser.csprojResolveAssemblyReference.cache
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\obj\Debug\LogParser.exe
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Task\LogParser\obj\Debug\LogParser.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Logging and monitoring\LogParser\bin\Debug\LogParser.exe.config
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Logging and monitoring\LogParser\obj\Debug\LogParser.exe
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\Logging and monitoring\LogParser\obj\Debug\LogParser.pdb
